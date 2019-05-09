@@ -67,7 +67,7 @@ const App = () => {
                                           <Label>Selectbox</Label>
                                           <Control>
                                                 <TextArea
-                                                      placeholder="[{ key: 'bread_butter', value: 'Bread Butter'}, { key: 'orange_milk', value: 'Orange Milk'}]"
+                                                      placeholder={`<select name=""><option value='bread_butter'>Bread Butter</option><option value='orange_milk'>Orange Milk</option><select>`}
                                                       value={selectboxVal}
                                                       readOnly
                                                 />
