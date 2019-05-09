@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "92f5be3f430fcf6ca746488f55fb0547",
+    "revision": "65041d1d2fb907907e0cdc07aaf6387d",
     "url": "/select-box-slug-generator/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/select-box-slug-generator/static/css/2.4223df75.chunk.css"
   },
   {
-    "revision": "bdcfd44a96980a310e51",
+    "revision": "563a6ce97da2aec0d8cb",
     "url": "/select-box-slug-generator/static/css/main.34de6062.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/select-box-slug-generator/static/js/2.c55027fd.chunk.js"
   },
   {
-    "revision": "bdcfd44a96980a310e51",
-    "url": "/select-box-slug-generator/static/js/main.d4f3e9db.chunk.js"
+    "revision": "563a6ce97da2aec0d8cb",
+    "url": "/select-box-slug-generator/static/js/main.a5aadb03.chunk.js"
   },
   {
     "revision": "f7a593a506d71d685df0",
