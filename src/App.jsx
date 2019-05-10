@@ -39,6 +39,8 @@ const App = () => {
             setinput('');
             setoutputObj('');
             setoutputSelectboxVal('');
+            setoutputKeyArr('');
+            setoutputHash('');
       };
 
       return (
