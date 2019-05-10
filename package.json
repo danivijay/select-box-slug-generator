@@ -9,6 +9,7 @@
             "react": "^16.8.6",
             "react-dom": "^16.8.6",
             "react-scripts": "3.0.1",
+            "react-scroll": "^1.7.11",
             "slug": "^1.1.0"
       },
       "scripts": {
